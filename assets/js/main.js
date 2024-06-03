@@ -8,7 +8,7 @@ let data = {
     ],
     specijalniBonusi: [
       {
-        title: "Weekly Cashback Rewardsi",
+        title: "Weekly Cashback Rewards",
         desc: "Enjoy increased cashback on your weekly losses, ensuring you always get the most out of your gameplay.",
         image: "assets/icons/icon-2.svg"
       },
