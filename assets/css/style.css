@@ -456,7 +456,7 @@ display: inline-block;
       no-repeat center center;
     background-size: 32px !important;
   }
-  #social .wrapper .linkedin span {
+  #social .wrapper-social .linkedin span {
     background: url(https://meridianbet.com/assets/images/deposit/footer/social/linkedin.svg) no-repeat center center;
     background-size: 32px !important;
 }
