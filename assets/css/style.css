@@ -115,7 +115,7 @@ ul {
     color: #fff;
 }
 .icons {
-    margin: 120px auto 113px auto;
+    margin: 100px auto 100px auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     width: 80%;
@@ -149,7 +149,7 @@ ul {
     letter-spacing: 0em;
     text-align: center;
     color: #ebce6fc9;
-
+    text-transform: uppercase;
 }
 
 .text-box-3 p {
